@@ -9,5 +9,5 @@ if alarmAm =='pm':
 while True:
     if alarmHour==datetime.datetime.now().hour and alarmMin==datetime.datetime.now().minute:
         print('playing..')
-        playsound('Craig David - 7 Days.mp3')
+        playsound('ed-sheeran-photograph-bimp3indir.biz')
         break    
